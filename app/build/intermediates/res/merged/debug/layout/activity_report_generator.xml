@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.alert.mobile.alertdoctor.ReportGenerator">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="name"
+            android:id="@+id/textView2"
+            android:layout_marginTop="38dp"
+            android:layout_below="@+id/textView4"
+            android:layout_alignStart="@+id/edName" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/edName"
+            android:layout_below="@+id/textView2"
+            android:layout_marginTop="25dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="problem in brief"
+            android:id="@+id/textView3"
+            android:layout_centerVertical="true"
+            android:layout_alignStart="@+id/edProblem" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/edProblem"
+            android:layout_below="@+id/textView3"
+            android:layout_alignEnd="@+id/edName"
+            android:layout_alignStart="@+id/edName" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="send"
+            android:id="@+id/buttonsend"
+            android:layout_below="@+id/txtlocation"
+            android:layout_alignStart="@+id/txtlocation"
+            android:layout_marginTop="31dp"
+            android:layout_alignEnd="@+id/edProblem" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="INSERT DETAILS"
+            android:id="@+id/textView4"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtlocation"
+            android:layout_below="@+id/edProblem"
+            android:layout_alignStart="@+id/edProblem"
+            android:layout_marginTop="29dp"
+            android:layout_alignEnd="@+id/edProblem" />
+
+    </RelativeLayout>
+</RelativeLayout>

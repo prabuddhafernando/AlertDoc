@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "H:\\Projects\\AlertDoctor\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "H:\\Projects\\AlertDoctor\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    }
+]

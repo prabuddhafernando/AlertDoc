@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.1_481eb805821a2ea1bedbabb485da35625d8d67ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_12efa4000c42941114beb8892040f008a51f0659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_de14f44ad5bfd4c292a1e5cfcaaab7759ac461c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prabudda\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\glide-3.6.1_8a1962502a90711939b978a4fb58323b0ac537ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_51206825a134cdc911eff714626354df19ec3870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_a33b3cc4a3bce7e182a5bfd27c2c60daa86af32c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ccfe84cf190e42b1e2f988ea62e258a9b1e05422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prabudda\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_411a79a11c09eeb03e57a5fc97e72b4fdaa19527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.6.1_6445e28700117a91ae60918b368bbaab03d24b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_a487f1ec2677e4a0b338b070f76618aa29c0a7b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.6.1_10227c94d63ad162652de8aad3c77c5a08c77ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.6.1_0a1f1547aa4d08ca33525eeae853c4f8131403da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_0849de9db45b7d9947cee0494e1a5d2474f21408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.6.1_0d5202e430e70ff53ae324035e2cf1a25c54f610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prabudda\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha9_ad18599f830bfcab0c4579a5fd615e6f0448067d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.4.0_d14ab07fabf00a2eda9c2fdf937c145a8c238b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_f0803425b6f5375fd3742773c736de9f7768fa0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.1_131cd097bdd46e1e700da00099ea354c51a2c401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-1.3.0_e665328a088ff8f8fe992545f3312f66c64800bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha9_4e83957f2ae589566d8c8e8ba20b324554f7eb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_7d000652c5de94119ce2abf3f17aafcd61c0ec39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.6.1_5927b55e6830c08f94f2e844824b8eea88146f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_da4c8514c0558999c449934c7b23f63dc8fd92da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.6.1_163df96d019b70563dc6ba38620f0377e65ceefc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_dc6fcc8d3814687cb063a442f70d0f06c5c38d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_66e22d4348b1e36ac41acb0a0f1543a28a6a7c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_1bd05f04d9c1e55748d7eee63b1cd852b3c1613f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.6.1_4c6510692525098f41815cbb37add02695ab5f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.1_3e31943dc0bbdba779caad199efa7d8c92c4db71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.6.1_3c540c91ce6ef41bf065e6850885b2f8089abcfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_8d545f041adea190170ef6d53c9424c140268d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_243f313608494f1ee43b214b241d8d2bbbedbe0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_8432723f57fd4350d0e633be48db957aabedc613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.1_4f679b60bbd3862aae8362e461af52a19e666424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_617a611cc47a78bca5c3156bee43375c5467f71c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_29f09510d654f626a59e046b70fa00408d5153ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_27e307e16fc7d357f1f17a3b2f737ebca46f5370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Projects\AlertDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="H:\Projects\AlertDoctor\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.6.1_7b27a29018d52e26c2ccd0018b857289be4aa938.jar" />
+    </item>
+
+</items>

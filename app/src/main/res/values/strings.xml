@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Wayama</string>
+    <string name="large_text">Report Genarator</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out_menu">Sign Out</string>
+    <string name="fresh_config_menu">fresh config menu</string>
+
+    <string name="invitation_title">Friendly Chat Invite</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="invitation_message">Please join me for a friendly chat</string>
+    <string name="invitation_cta">Call to action</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-9786821256777981/7927662358</string>
+    <string name="crash_menu">Crash Application</string>
+</resources>

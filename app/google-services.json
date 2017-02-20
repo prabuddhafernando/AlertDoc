@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1086516015226",
+    "firebase_url": "https://peak-orbit-146905.firebaseio.com",
+    "project_id": "peak-orbit-146905",
+    "storage_bucket": "peak-orbit-146905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086516015226:android:10ac05e23c559ee0",
+        "android_client_info": {
+          "package_name": "com.alert.mobile.alertdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086516015226-u221i0bbl35m19mag7d4fk0jfopoqm3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alert.mobile.alertdoctor",
+            "certificate_hash": "269FB3D75935D20414B08A82F061A58F8EB83AE4"
+          }
+        },
+        {
+          "client_id": "1086516015226-3a528ghjdqfbk781393econ1i04c2a6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpWwpfmC3O3S1kzu4JBwGk0Vq901xRkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086516015226-3a528ghjdqfbk781393econ1i04c2a6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

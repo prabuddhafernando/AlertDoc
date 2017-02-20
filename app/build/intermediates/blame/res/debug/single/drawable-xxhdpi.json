@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_person_pin_circle_black_24dp.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_pin_circle_black_24dp.png"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\map_location.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\map_location.png"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_slideshow.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_manage.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_gallery.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_send.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_share.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "H:\\Projects\\AlertDoctor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_camera.png",
+        "source": "H:\\Projects\\AlertDoctor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_camera.png"
+    }
+]
